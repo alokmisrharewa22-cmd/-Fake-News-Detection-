@@ -21,3 +21,5 @@ This project is a Fake News Detection web application built using Machine Learni
 ## ▶️ How to Run
 
 streamlit run app.py
+## 🖼️ Output
+(output.png)
